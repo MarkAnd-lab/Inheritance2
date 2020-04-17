@@ -3,7 +3,7 @@ package se.lexicon.mark;
 /**
  * Hello world!
  *
- */t
+ */test
 public class App 
 {
     public static void main( String[] args )
